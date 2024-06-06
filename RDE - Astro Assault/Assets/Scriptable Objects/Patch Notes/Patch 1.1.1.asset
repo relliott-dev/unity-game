@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43a01f5d3ca6b8f4aaef42944db472e2, type: 3}
+  m_Name: Patch 1.1.1
+  m_EditorClassIdentifier: 
+  patchVersion: 1.1.1
+  patchYear: 2024
+  patchMonth: 4
+  patchDay: 20
+  generalUpdates:
+  - Organized workspace
+  - Added basic menus
+  - Added flashing text buttons
+  - Created initial level
+  - Set up player systems
+  - Set up controls
+  - Set up basic player HUD
+  newFeatures:
+  - Added Menu System
+  - Added Save/Load System
+  - Added Stat System
+  - Added Stamina System
+  - Added Locomotion System
+  - Added Camera and Shake System
+  - Added Basic Networking
+  - Added Sound System
+  - Added Playable Characters
+  bugFixes:
+  - Fixed issues with flashing text
+  - Fixed issues with cluttered code
+  - Fixed issues of materials not being correctly generated
+  knownIssues:
+  - Saving/Loading is not working properly
+  - Character Menu is unfinished
+  - Options is not working properly
+  - Chat System is not working
+  - Combat system has many flaws

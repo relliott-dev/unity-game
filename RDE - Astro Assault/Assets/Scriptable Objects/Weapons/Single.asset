@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aa3fb417e388be4a839512f1e81dc74, type: 3}
+  m_Name: Single
+  m_EditorClassIdentifier: 
+  type: 7
+  weaponPrefab: {fileID: 1019480068096796, guid: e0762499a891c1742bb791cb74ebce02, type: 3}
+  attackSound: {fileID: 0}
+  attackSpeed: 0.5
+  criticalHitChance: 50
+  criticalHitMultiplier: 2

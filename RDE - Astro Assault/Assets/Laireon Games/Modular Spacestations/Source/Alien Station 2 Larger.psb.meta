@@ -1,0 +1,873 @@
+fileFormatVersion: 2
+guid: accdbfca095cdb94c8d378c94435e11f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: 'Lights '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2060
+      y: 4
+      width: 563
+      height: 635
+    spriteID: fbffbb67f97b117428c9dde0bb99d022
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2060, y: 4}
+    spritePosition: {x: 751, y: 803}
+  - name: Engines Lights Color
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2060
+      y: 647
+      width: 434
+      height: 130
+    spriteID: e82ef0bba6a069041ae63c4088aa82f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2060, y: 647}
+    spritePosition: {x: 787, y: 648}
+  - name: Engines Lights
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2060
+      y: 785
+      width: 434
+      height: 130
+    spriteID: 3e3b051c22f93ee4eb8d06efe93aa060
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2060, y: 785}
+    spritePosition: {x: 787, y: 648}
+  - name: Main Body
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3317
+      y: 4
+      width: 713
+      height: 498
+    spriteID: d31bb979c78d437429000623eb632838
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3317, y: 4}
+    spritePosition: {x: 670, y: 651}
+  - name: Right Body
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2631
+      y: 4
+      width: 678
+      height: 526
+    spriteID: a3ec165659985884ab803475a895db29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2631, y: 4}
+    spritePosition: {x: 967, y: 637}
+  - name: Left Body
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3317
+      y: 510
+      width: 765
+      height: 449
+    spriteID: 8918f8121856028488076a0ab43a4932
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3317, y: 510}
+    spritePosition: {x: 370, y: 751}
+  - name: Bottom Engines
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3317
+      y: 967
+      width: 557
+      height: 252
+    spriteID: d266d3536c5ec6c45aec548d19b716a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3317, y: 967}
+    spritePosition: {x: 729, y: 562}
+  - name: Bottom Detail
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3963
+      y: 1802
+      width: 128
+      height: 186
+    spriteID: b050e097cddc44d4e99b6a56e7f1b204
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3963, y: 1802}
+    spritePosition: {x: 944, y: 662}
+  - name: Antennas
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2060
+      y: 923
+      width: 65
+      height: 532
+    spriteID: 3952adb707b8d984188d85eed4a140bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2060, y: 923}
+    spritePosition: {x: 1206, y: 895}
+  - name: Antennas_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2060
+      y: 1463
+      width: 65
+      height: 532
+    spriteID: 3bcd785ee425d6541a674ccf9d312f65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2060, y: 1463}
+    spritePosition: {x: 738, y: 827}
+  - name: Lights
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3998
+      y: 1996
+      width: 26
+      height: 50
+    spriteID: 31b65ad75b6080747a29ba1084162123
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3998, y: 1996}
+    spritePosition: {x: 1394, y: 1078}
+  - name: Right Tower
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3590
+      y: 1227
+      width: 201
+      height: 433
+    spriteID: 5f2a2954b7e3cea4ba8633f66dc5c1b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3590, y: 1227}
+    spritePosition: {x: 1331, y: 909}
+  - name: Lights_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3963
+      y: 1996
+      width: 27
+      height: 52
+    spriteID: 6dbb6cbee4b92f74db771b190d0670dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3963, y: 1996}
+    spritePosition: {x: 992, y: 1199}
+  - name: Middle Tower
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3317
+      y: 1227
+      width: 265
+      height: 474
+    spriteID: 7f61e22c55f18664a80830af86a75e28
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3317, y: 1227}
+    spritePosition: {x: 928, y: 993}
+  - name: Left Antanae
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2133
+      y: 923
+      width: 65
+      height: 532
+    spriteID: 326b236c505e0c54ba581dd65121284f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2133, y: 923}
+    spritePosition: {x: 616, y: 1050}
+  - name: Left Tower
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3590
+      y: 1668
+      width: 173
+      height: 360
+    spriteID: 00201f6c467654c4cbab4c60b14687ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3590, y: 1668}
+    spritePosition: {x: 546, y: 1099}
+  - name: Lights_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2133
+      y: 1463
+      width: 61
+      height: 386
+    spriteID: 758a37ede39a097488a188a912ba2aca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2133, y: 1463}
+    spritePosition: {x: 610, y: 1207}
+  - name: Engine Lights copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3799
+      y: 1802
+      width: 156
+      height: 162
+    spriteID: 6c34a512b3895244e91cacafb1ca8bd4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3799, y: 1802}
+    spritePosition: {x: 1441, y: 729}
+  - name: Engine copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3799
+      y: 1227
+      width: 289
+      height: 277
+    spriteID: e74417f955b702748b5daeba075ecf74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3799, y: 1227}
+    spritePosition: {x: 1357, y: 662}
+  - name: Engine Lights
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3882
+      y: 967
+      width: 156
+      height: 165
+    spriteID: 338d10c33d44cac4c99e0e888555bcc4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3882, y: 967}
+    spritePosition: {x: 458, y: 831}
+  - name: Engine
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3799
+      y: 1512
+      width: 273
+      height: 282
+    spriteID: 77b5d57642a8adc4681bfe2f23725627
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3799, y: 1512}
+    spritePosition: {x: 391, y: 793}
+  - name: Background
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2048
+      height: 2048
+    spriteID: 882c22484d53c6f4e86049b8fad52977
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  skeletonAssetReferenceID: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: 'Lights '
+    spriteName: 'Lights '
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fbffbb67f97b117428c9dde0bb99d022
+    layerID: 56
+    mosaicPosition: {x: 2060, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Engines Lights Color
+    spriteName: Engines Lights Color
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e82ef0bba6a069041ae63c4088aa82f9
+    layerID: 58
+    mosaicPosition: {x: 2060, y: 647}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Engines Lights
+    spriteName: Engines Lights
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3e3b051c22f93ee4eb8d06efe93aa060
+    layerID: 41
+    mosaicPosition: {x: 2060, y: 785}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Main Body
+    spriteName: Main Body
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d31bb979c78d437429000623eb632838
+    layerID: 46
+    mosaicPosition: {x: 3317, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Body
+    spriteName: Right Body
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a3ec165659985884ab803475a895db29
+    layerID: 64
+    mosaicPosition: {x: 2631, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Left Body
+    spriteName: Left Body
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8918f8121856028488076a0ab43a4932
+    layerID: 62
+    mosaicPosition: {x: 3317, y: 510}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bottom Engines
+    spriteName: Bottom Engines
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d266d3536c5ec6c45aec548d19b716a2
+    layerID: 40
+    mosaicPosition: {x: 3317, y: 967}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bottom Detail
+    spriteName: Bottom Detail
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b050e097cddc44d4e99b6a56e7f1b204
+    layerID: 32
+    mosaicPosition: {x: 3963, y: 1802}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Antennas
+    spriteName: Antennas
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3952adb707b8d984188d85eed4a140bb
+    layerID: 38
+    mosaicPosition: {x: 2060, y: 923}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Antennas
+    spriteName: Antennas_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3bcd785ee425d6541a674ccf9d312f65
+    layerID: 35
+    mosaicPosition: {x: 2060, y: 1463}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Tower
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 730b8b79bb9d8c34ca3d9c8a0435d197
+    layerID: 82
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Lights
+    spriteName: Lights
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 31b65ad75b6080747a29ba1084162123
+    layerID: 84
+    mosaicPosition: {x: 3998, y: 1996}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Tower
+    spriteName: Right Tower
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 5f2a2954b7e3cea4ba8633f66dc5c1b2
+    layerID: 13
+    mosaicPosition: {x: 3590, y: 1227}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Middle Tower
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 20063542e43fa7348b35c1abaafb1401
+    layerID: 79
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Lights
+    spriteName: Lights_1
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 6dbb6cbee4b92f74db771b190d0670dc
+    layerID: 81
+    mosaicPosition: {x: 3963, y: 1996}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Middle Tower
+    spriteName: Middle Tower
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 7f61e22c55f18664a80830af86a75e28
+    layerID: 15
+    mosaicPosition: {x: 3317, y: 1227}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Left Tower
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 44e65db4d3fa5674987123712fa2d709
+    layerID: 76
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Left Antanae
+    spriteName: Left Antanae
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 326b236c505e0c54ba581dd65121284f
+    layerID: 36
+    mosaicPosition: {x: 2133, y: 923}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Left Tower
+    spriteName: Left Tower
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 00201f6c467654c4cbab4c60b14687ef
+    layerID: 31
+    mosaicPosition: {x: 3590, y: 1668}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Lights
+    spriteName: Lights_2
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 758a37ede39a097488a188a912ba2aca
+    layerID: 78
+    mosaicPosition: {x: 2133, y: 1463}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Single Engine Right
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 37b6b346f3fd7a34a8a93a4248da5cf0
+    layerID: 75
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Engine Lights copy
+    spriteName: Engine Lights copy
+    isGroup: 0
+    parentIndex: 20
+    spriteID: 6c34a512b3895244e91cacafb1ca8bd4
+    layerID: 74
+    mosaicPosition: {x: 3799, y: 1802}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Engine copy
+    spriteName: Engine copy
+    isGroup: 0
+    parentIndex: 20
+    spriteID: e74417f955b702748b5daeba075ecf74
+    layerID: 73
+    mosaicPosition: {x: 3799, y: 1227}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Single Engine
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 8f494b827c42c07478d36f8ba09c0428
+    layerID: 69
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Engine Lights
+    spriteName: Engine Lights
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 338d10c33d44cac4c99e0e888555bcc4
+    layerID: 66
+    mosaicPosition: {x: 3882, y: 967}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Engine
+    spriteName: Engine
+    isGroup: 0
+    parentIndex: 23
+    spriteID: 77b5d57642a8adc4681bfe2f23725627
+    layerID: 67
+    mosaicPosition: {x: 3799, y: 1512}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Background
+    spriteName: Background
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 882c22484d53c6f4e86049b8fad52977
+    layerID: 60
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: Alien Station 2 Larger Texture
+  prefabAssetName: Alien Station 2 Larger Prefab
+  spriteLibAssetName: Alien Station 2 Larger Sprite Lib
+  skeletonAssetName: 
+  secondarySpriteTextures: []

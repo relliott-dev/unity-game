@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &130674
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 408358}
+  - component: {fileID: 11448842}
+  - component: {fileID: 21238822}
+  - component: {fileID: 11416428}
+  m_Layer: 0
+  m_Name: 10AsteroidPrefab 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &408358
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 130674}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -7.3569064, y: 26.142082, z: 9.953125}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11448842
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 130674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b8259418837dc645b4e31ccafe628e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Asteroids:
+  - {fileID: 21300000, guid: 67807c4a6326b8748bdc2d7985b3de7e, type: 3}
+  - {fileID: 21300000, guid: 5424f02b2ff3b8b43be1ae7416567be8, type: 3}
+  - {fileID: 21300000, guid: 3482b94a6e02aec42bb202d98b75ff86, type: 3}
+  - {fileID: 21300000, guid: 329d5362f70baed4a860e34a4985c1d9, type: 3}
+  - {fileID: 21300000, guid: 1fef3a62727fd8941bdb54b3084c977b, type: 3}
+  - {fileID: 21300000, guid: 98dcb76c7136d12469f05ee8c199c853, type: 3}
+  - {fileID: 21300000, guid: da13c71f1d2018043a888f8ec50513be, type: 3}
+  - {fileID: 21300000, guid: b4aa235656c013841b020ef21c4e5a6d, type: 3}
+  - {fileID: 21300000, guid: 250e08ff51fd9f14d8aa9334cee5a4bd, type: 3}
+  - {fileID: 21300000, guid: c5e0803791234e8448015a9e7101fe26, type: 3}
+  - {fileID: 21300000, guid: 185178ba6fcac374ca7cac8e86d29b8e, type: 3}
+  - {fileID: 21300000, guid: 0748fe7e302dd224786bef00a4f632c6, type: 3}
+  - {fileID: 21300000, guid: 07d22a9920b15774285c72dc4d1206a4, type: 3}
+  - {fileID: 21300000, guid: d3bcd46c171a5e945b64e88da34b5900, type: 3}
+  - {fileID: 21300000, guid: b7bd77ff8fcb3ec49b7238f183da8268, type: 3}
+  - {fileID: 21300000, guid: 417367bd00c718449ba36f93c8b03b65, type: 3}
+  - {fileID: 21300000, guid: e7e54930e068397418c81eb9d65db7ea, type: 3}
+  - {fileID: 21300000, guid: 268d3aef430762844ba43ec27842fb37, type: 3}
+  - {fileID: 21300000, guid: 0b3d3f1c62ff23a4a94d1183173a7f1c, type: 3}
+  - {fileID: 21300000, guid: a18d200309bedee46a3df9404d298aec, type: 3}
+  - {fileID: 21300000, guid: 202043dd0d4d57548a25597101a6d670, type: 3}
+  - {fileID: 21300000, guid: 889aec61a2f458844be5af741f445ff9, type: 3}
+  - {fileID: 21300000, guid: 5392203addb1fca41be33449008c8199, type: 3}
+  - {fileID: 21300000, guid: b0fad5fbe84b6c149a9355dd3aeacba6, type: 3}
+  - {fileID: 21300000, guid: daa8538d99cbcd744b2a24954047dda0, type: 3}
+  - {fileID: 21300000, guid: 8db8646e1cb72534287dab641d9211dc, type: 3}
+  - {fileID: 21300000, guid: b2e546019b608a5418af5df65f26f811, type: 3}
+  - {fileID: 21300000, guid: f99f91eeb37ec434286ccf5b504c2772, type: 3}
+  - {fileID: 21300000, guid: 7d9870430c584c749964f8772d6e4a49, type: 3}
+  - {fileID: 21300000, guid: abb04a8de778c1248871bd5375d1ad2f, type: 3}
+  - {fileID: 21300000, guid: 27a96e8a2d8b09e42bb882b1e1d04852, type: 3}
+  - {fileID: 21300000, guid: 4346cce5fd8944942b5a9e5754467b63, type: 3}
+  - {fileID: 21300000, guid: 7f790a96ef10eb8479396b914341cda8, type: 3}
+  - {fileID: 21300000, guid: 0ea42da9be00a2f408b42e830105b0c5, type: 3}
+  - {fileID: 21300000, guid: 7ca060827fa4f854ea7873fa29d83693, type: 3}
+  - {fileID: 21300000, guid: 3ca00bc52bc53d24f93ec6593457aa08, type: 3}
+  - {fileID: 21300000, guid: f32425262dc763b4a9b4475e56252f85, type: 3}
+  - {fileID: 21300000, guid: bb7a0597b384bcb49895dbdb77e7e076, type: 3}
+  rotationSpeed: 1
+  sortingLayerNumber: 0
+  asteroidScale: 0
+--- !u!212 &21238822
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 130674}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: -1287476923
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 0
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &11416428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 130674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 216828778d19d1545a1e38b1322fd938, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  derivationPos: {x: 0, y: 0, z: 0}
+  scaleMinFore: 0
+  scaleMaxFore: 0
+  scaleMinMiddle: 0
+  scaleMaxMiddle: 0
+  scaleMinBack: 0
+  scaleMaxBack: 0

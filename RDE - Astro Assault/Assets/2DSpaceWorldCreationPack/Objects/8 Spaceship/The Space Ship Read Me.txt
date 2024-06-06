@@ -1,0 +1,14 @@
+Hello there everyone, again!
+
+ So, the deal with the Space Ship.
+ While it is not officially part of this package, I still included it. Maybe you find the Movement Script useful.
+ Maybe you love the Sprite. If the last statement is true, go to http://millionthvector.blogspot.de . I got it from him.
+ He has tons of other sprties on there to, mostly compatible with each other. It's all under CC 4.0, so pretty simple to use for you guys.
+
+ If he, anyhow, reads this or anyone knows him, here's a big shout-out to him. Man, you are awesome!
+
+ So, without further ado, use the link, use the Sprite (but credit him, otherwise you'll have licensing issues), use the Script.
+ Oh, and if you need a script, where the Space Ship faces the cursor and flies towards it. I'll gladly send you that movement script,
+ if you need it. I just won't include it, as Spaceship Controls are not part of an Space Ambience package. Sumanai (=jap. "Sorry") :)
+
+ Oh, and before I forget: Welcome to the area of the package which actually does not belong here!

@@ -1,0 +1,18 @@
+Thanks for purchasing this package! I will try and keep this short and sweet.
+
+The code for these weapons is split into two example classes, ExampleWeapon or AnimatedExample weapon with the difference here being the use of TransitionalObject.
+If you don't want to use this framework then you can stick with ExampleWeapon and write the animated version to suit your needs.
+
+The main methods you should be interacting with are:
+
+ExampleWeapon.SetState()
+
+This determines if the weapon is reloading, firing or waiting to fire (disabled and displaying a red light). Firing and reloading will be set automatically from the 
+animation so you should only need to set the states to either start firing or stop (waiting state).
+
+Everything else should be exposed to the editor allowing you to edit the ifirng or reloading speed and the animation will automatically update. If you want a speed
+that is not in the range in the editor check the ExampleWeapon class and look for a section: [Range(0.15,1)]. This controls the slider in the editor and will let you set
+higher or lower values once edited.
+
+One thing to note is if you wish for a quicker firing speed then be careful of the weapons with recoil! These have hard set values to avoid looking unnatural, such as 
+a small delay after each recoil. To remove this edit the Delay on the Transition In tab of the Transitional Object on the Barrels but I don't recomend removing the delay entirely!

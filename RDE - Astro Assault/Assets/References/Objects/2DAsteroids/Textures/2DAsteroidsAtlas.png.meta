@@ -1,0 +1,753 @@
+fileFormatVersion: 2
+guid: 5d37a1dd73105ef44a0b65f4f529e93a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: 2DAsteroidsAtlas_0
+  - first:
+      213: 21300002
+    second: 2DAsteroidsAtlas_1
+  - first:
+      213: 21300004
+    second: 2DAsteroidsAtlas_2
+  - first:
+      213: 21300006
+    second: 2DAsteroidsAtlas_3
+  - first:
+      213: 21300008
+    second: 2DAsteroidsAtlas_4
+  - first:
+      213: 21300010
+    second: 2DAsteroidsAtlas_5
+  - first:
+      213: 21300012
+    second: 2DAsteroidsAtlas_6
+  - first:
+      213: 21300014
+    second: 2DAsteroidsAtlas_7
+  - first:
+      213: 21300016
+    second: 2DAsteroidsAtlas_8
+  - first:
+      213: 21300018
+    second: 2DAsteroidsAtlas_9
+  - first:
+      213: 21300020
+    second: 2DAsteroidsAtlas_10
+  - first:
+      213: 21300022
+    second: 2DAsteroidsAtlas_11
+  - first:
+      213: 21300024
+    second: 2DAsteroidsAtlas_12
+  - first:
+      213: 21300026
+    second: 2DAsteroidsAtlas_13
+  - first:
+      213: 21300028
+    second: 2DAsteroidsAtlas_14
+  - first:
+      213: 21300030
+    second: 2DAsteroidsAtlas_15
+  - first:
+      213: 21300032
+    second: 2DAsteroidsAtlas_16
+  - first:
+      213: 21300034
+    second: 2DAsteroidsAtlas_17
+  - first:
+      213: 21300036
+    second: 2DAsteroidsAtlas_18
+  - first:
+      213: 21300038
+    second: 2DAsteroidsAtlas_19
+  - first:
+      213: 21300040
+    second: 2DAsteroidsAtlas_20
+  - first:
+      213: 21300042
+    second: 2DAsteroidsAtlas_21
+  - first:
+      213: 21300044
+    second: 2DAsteroidsAtlas_22
+  - first:
+      213: 21300046
+    second: 2DAsteroidsAtlas_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 3316
+        width: 401
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533b51367acfa004d8b50cb7657dcb8f
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 3344
+        width: 421
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ed0c046eeb76940af10b853644a7eb
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 3513
+        width: 418
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e56f8db0eb361c4e906c1bdf7cdd837
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 3512
+        width: 459
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ae08c7f60e2a14ca95c6ad56f8f6e9
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 3316
+        width: 773
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a735df19c13e1242a642713db855227
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 3442
+        width: 910
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e4d4d3c705953428d615195cd3e1b0
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2540
+        width: 587
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f6a32e3295f89419ad385bfd6a8e88
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2827
+        width: 647
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363495f1ba5ac964fa1a90562e7ccc07
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 2631
+        width: 462
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bad33749ad1d8246855eb8d3819dd30
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 2613
+        width: 912
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c13b2200dda8e642b573ce22fbb804b
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 2583
+        width: 767
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eba5cbf34562d448f903620cbca2af
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1828
+        width: 1024
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fd23ba0fd765540b82ef35909dbcae
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1926
+        width: 455
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4547cdad0528d4eaf6e01da9fe11e6
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1924
+        width: 407
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130c614c937234a479ef90f3c5846710
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 1901
+        width: 642
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d87397e1c11d3343b184d5e05aa57c1
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 1983
+        width: 584
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4869a0041f1d6c49863f7e2a5064828
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1060
+        width: 740
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92702f5ae34600545a9aaaaafcde1ab7
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1130
+        width: 867
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569d68d3327a17d41a0e0ce8a4e68183
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1108
+        width: 700
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764de5ac44cbde343a40b9524df981de
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 1161
+        width: 728
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5958485fe9a30b14a9d9d41a20960d8e
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 235
+        width: 677
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d9f663db4f503459506cbeb2cd00eb
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 310
+        width: 906
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578f393d000303d4c90b8dd92bb7a8ef
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 239
+        width: 800
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b604ba07c7cdc9441a78de8fcb03cb94
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DAsteroidsAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 236
+        width: 950
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0601491624d10d442b24d8c7e524bb90
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 10d2f537fd5e79543af09c1d7c65b0e5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2DAsteroidsAtlas_0: 21300000
+      2DAsteroidsAtlas_1: 21300002
+      2DAsteroidsAtlas_10: 21300020
+      2DAsteroidsAtlas_11: 21300022
+      2DAsteroidsAtlas_12: 21300024
+      2DAsteroidsAtlas_13: 21300026
+      2DAsteroidsAtlas_14: 21300028
+      2DAsteroidsAtlas_15: 21300030
+      2DAsteroidsAtlas_16: 21300032
+      2DAsteroidsAtlas_17: 21300034
+      2DAsteroidsAtlas_18: 21300036
+      2DAsteroidsAtlas_19: 21300038
+      2DAsteroidsAtlas_2: 21300004
+      2DAsteroidsAtlas_20: 21300040
+      2DAsteroidsAtlas_21: 21300042
+      2DAsteroidsAtlas_22: 21300044
+      2DAsteroidsAtlas_23: 21300046
+      2DAsteroidsAtlas_3: 21300006
+      2DAsteroidsAtlas_4: 21300008
+      2DAsteroidsAtlas_5: 21300010
+      2DAsteroidsAtlas_6: 21300012
+      2DAsteroidsAtlas_7: 21300014
+      2DAsteroidsAtlas_8: 21300016
+      2DAsteroidsAtlas_9: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

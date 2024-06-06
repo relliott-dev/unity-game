@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38d8cb2916c4a5f438b22abf438978f3, type: 3}
+  m_Name: Ironclad Behemoth
+  m_EditorClassIdentifier: 
+  classType: 2
+  characterIcon: {fileID: 0}
+  description: 
+  maxHealth: 300
+  healthRegen: 5
+  maxEnergy: 80
+  energyRegen: 2
+  maxHeat: 150
+  heatRegen: 8
+  movementSpeed: 5
+  attackSpeed: 1.5

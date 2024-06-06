@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1fd3d923cc63c34aa82260d57d6a1c5, type: 3}
+  m_Name: Star Marauder
+  m_EditorClassIdentifier: 
+  classType: 1
+  characterIcon: {fileID: 0}
+  description: 
+  maxHealth: 120
+  healthRegen: 4
+  maxEnergy: 180
+  energyRegen: 8
+  maxHeat: 200
+  heatRegen: 6
+  movementSpeed: 5
+  attackSpeed: 8

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &136954
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 490146}
+  - component: {fileID: 11461716}
+  m_Layer: 0
+  m_Name: WorldSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &490146
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 136954}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11461716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 136954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e8afd026ac1a5f438f3d431f4c21804, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlanetPrefab: {fileID: 490566, guid: 4fb03796a441bb34b83efdfa431c62a1, type: 3}
+  FogSpawner: {fileID: 463492, guid: 5e0dd0b4370a4a0479aebb9b9413079c, type: 3}
+  ObjectsToBeSpawned:
+  - {fileID: 403676, guid: 10ed97e2fe8ac994d9e6d23b10ab4738, type: 3}
+  - {fileID: 403676, guid: 6921d02c0accaed4abd861d79fdb894e, type: 3}
+  - {fileID: 403676, guid: 6921d02c0accaed4abd861d79fdb894e, type: 3}
+  - {fileID: 403676, guid: c88d6007ac8fdc74d83f0ba904ffd2f3, type: 3}
+  - {fileID: 403676, guid: 2bb04976289a0a9458c6bbc05b795875, type: 3}
+  - {fileID: 460166, guid: 79c85f54e1375ee48a8dff8ece37c548, type: 3}
+  - {fileID: 460166, guid: 79c85f54e1375ee48a8dff8ece37c548, type: 3}
+  - {fileID: 460166, guid: 79c85f54e1375ee48a8dff8ece37c548, type: 3}
+  - {fileID: 428968, guid: c3850d7d6c48a09488555c37632260a7, type: 3}
+  - {fileID: 428968, guid: c3850d7d6c48a09488555c37632260a7, type: 3}
+  - {fileID: 499078, guid: 79a141ad588d4294eb0a8bc3a4649acc, type: 3}

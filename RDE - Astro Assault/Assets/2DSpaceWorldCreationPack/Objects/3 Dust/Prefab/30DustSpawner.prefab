@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &189988
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 428968}
+  - component: {fileID: 11488244}
+  - component: {fileID: 11431380}
+  m_Layer: 0
+  m_Name: 30DustSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &428968
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 189988}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.2970444, y: -5.6544027, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11488244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 189988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1aee098c42ac2a34f880be0743ce6fe2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Cloudprefab:
+  - {fileID: 131004, guid: f337d99911861ef488279d8d1aa6a654, type: 3}
+  - {fileID: 125800, guid: c1715743de1e83e49b9ec878e0dab63c, type: 3}
+  - {fileID: 125800, guid: 8feca33b3a2bcca43a07ab430a9c40ba, type: 3}
+  - {fileID: 125800, guid: d0f967236e223ca428c79f9b69b9e3cd, type: 3}
+  - {fileID: 125800, guid: 4699ffa72843b264bbcbea75ad6b3e9b, type: 3}
+--- !u!114 &11431380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 189988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c1947c37a4e50b47b285c9259f34050, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sortingLayerFromWorldSpawner: 0

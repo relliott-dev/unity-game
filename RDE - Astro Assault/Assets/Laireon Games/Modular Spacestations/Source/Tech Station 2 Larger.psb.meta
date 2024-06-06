@@ -1,0 +1,1326 @@
+fileFormatVersion: 2
+guid: e0520898f3a68c24ab97b2395aa15086
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Lights
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2302
+      y: 4
+      width: 337
+      height: 270
+    spriteID: bb0b20741663bac46822d244288a31cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2302, y: 4}
+    spritePosition: {x: 859, y: 1173}
+  - name: Right Tunnel lLights copy 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2409
+      y: 282
+      width: 250
+      height: 98
+    spriteID: c2f73895b6b3c7e4f96c3e195b307961
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2409, y: 282}
+    spritePosition: {x: 653, y: 888}
+  - name: Right Big Tunnel copy 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2895
+      y: 4
+      width: 485
+      height: 99
+    spriteID: b4ae34c60ecbbda4ab6e00e72ae0fb22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2895, y: 4}
+    spritePosition: {x: 535, y: 888}
+  - name: Right Tunnel lLights copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2667
+      y: 282
+      width: 250
+      height: 98
+    spriteID: 0541cdc38156908458371d068b2d3a12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2667, y: 282}
+    spritePosition: {x: 172, y: 888}
+  - name: Right Big Tunnel copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3388
+      y: 4
+      width: 485
+      height: 99
+    spriteID: f2d0c65d930821c43bcf616466c5cde3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3388, y: 4}
+    spritePosition: {x: 54, y: 888}
+  - name: Right Tunnel lLights copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2925
+      y: 282
+      width: 250
+      height: 98
+    spriteID: e13cca8de5286c44b81717b40c7bd819
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2925, y: 282}
+    spritePosition: {x: 1628, y: 888}
+  - name: Right Big Tunnel copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2895
+      y: 111
+      width: 485
+      height: 99
+    spriteID: af3929704555ccd47a6590723f6bf5c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2895, y: 111}
+    spritePosition: {x: 1510, y: 888}
+  - name: Right Tunnel lLights
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3183
+      y: 282
+      width: 250
+      height: 98
+    spriteID: 4af035fcce3940a47935888adaccd7ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3183, y: 282}
+    spritePosition: {x: 1143, y: 888}
+  - name: Right Big Tunnel
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3388
+      y: 111
+      width: 485
+      height: 99
+    spriteID: 195f853f91264b5418e1d93ca58ebb0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3388, y: 111}
+    spritePosition: {x: 1025, y: 888}
+  - name: Top Big Tunnel
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2302
+      y: 282
+      width: 99
+      height: 485
+    spriteID: f052d3c8c98b3af4c94dfcff840b55ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2302, y: 282}
+    spritePosition: {x: 976, y: 1024}
+  - name: Middle Big Tunnel
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2302
+      y: 775
+      width: 46
+      height: 428
+    spriteID: ce47e511f73422d4da5545d6b87a4408
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2302, y: 775}
+    spritePosition: {x: 1002, y: 630}
+  - name: Left Area
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2060
+      y: 1575
+      width: 114
+      height: 222
+    spriteID: 04917aab8e966bf4786405409c63795c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2060, y: 1575}
+    spritePosition: {x: 848, y: 1226}
+  - name: Right Area
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2060
+      y: 1805
+      width: 114
+      height: 222
+    spriteID: d6376169c01b1004dbb7285487b4bd52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2060, y: 1805}
+    spritePosition: {x: 1089, y: 1226}
+  - name: Right Corpus Lights copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4015
+      y: 4
+      width: 36
+      height: 39
+    spriteID: d0640e64125639346aa805a402cb24ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4015, y: 4}
+    spritePosition: {x: 1858, y: 989}
+  - name: Right Corpus copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2060
+      y: 4
+      width: 234
+      height: 416
+    spriteID: 2ae1d398a1b980045bceb657c835f20a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2060, y: 4}
+    spritePosition: {x: 1759, y: 729}
+  - name: Right Long Tunnel copy 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2302
+      y: 1211
+      width: 46
+      height: 428
+    spriteID: ca6105f5fb92f1842b2e745b4f39183a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2302, y: 1211}
+    spritePosition: {x: 1853, y: 810}
+  - name: Right Corpus Lights copy 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4015
+      y: 51
+      width: 36
+      height: 39
+    spriteID: 84e2da21f64fbcf4ead5ffb700da9d2a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4015, y: 51}
+    spritePosition: {x: 162, y: 1000}
+  - name: Right Corpus copy 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2060
+      y: 428
+      width: 234
+      height: 416
+    spriteID: 2930aa26c86a5e34ab7bae4bf553c7ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2060, y: 428}
+    spritePosition: {x: 63, y: 740}
+  - name: Right Long Tunnel copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2409
+      y: 388
+      width: 46
+      height: 428
+    spriteID: 34ea440ae38808342919b6ef90f3d49e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2409, y: 388}
+    spritePosition: {x: 156, y: 821}
+  - name: Right Corpus Lights copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4059
+      y: 4
+      width: 31
+      height: 33
+    spriteID: b62241a1f5749a34bb1ed83d7ace6bd4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4059, y: 4}
+    spritePosition: {x: 646, y: 980}
+  - name: Right Corpus copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2060
+      y: 852
+      width: 199
+      height: 353
+    spriteID: 3f4b32bf431a92242a2eeb16a0744379
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2060, y: 852}
+    spritePosition: {x: 562, y: 759}
+  - name: Right Corpus Lights
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4059
+      y: 51
+      width: 30
+      height: 33
+    spriteID: de019cb9e46125f4080f1ccec3381799
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4059, y: 51}
+    spritePosition: {x: 1378, y: 981}
+  - name: Right Corpus
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2060
+      y: 1213
+      width: 198
+      height: 354
+    spriteID: 31d17fa57937e504ab51a31a1a2ac3a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2060, y: 1213}
+    spritePosition: {x: 1294, y: 760}
+  - name: Attachments
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2182
+      y: 1575
+      width: 83
+      height: 142
+    spriteID: cb734f3a6d73d61488d2b20f53a71c94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2182, y: 1575}
+    spritePosition: {x: 937, y: 1259}
+  - name: Right Small Attachment
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3441
+      y: 282
+      width: 126
+      height: 59
+    spriteID: af5714bd3b0fe9744965d53cb1d5a100
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3441, y: 282}
+    spritePosition: {x: 1151, y: 1302}
+  - name: Left Small Attatchment
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3881
+      y: 4
+      width: 126
+      height: 60
+    spriteID: 4f16dfc7de9030243a81e5f4dbdfb2ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3881, y: 4}
+    spritePosition: {x: 768, y: 1307}
+  - name: Attachments_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2182
+      y: 1805
+      width: 83
+      height: 142
+    spriteID: 7540496e117ca894096cb6882e90fd8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2182, y: 1805}
+    spritePosition: {x: 1034, y: 1259}
+  - name: Bottom Part
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2647
+      y: 4
+      width: 240
+      height: 228
+    spriteID: 987c62b9f93f50e47b4a36f7260c5559
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2647, y: 4}
+    spritePosition: {x: 904, y: 707}
+  - name: Right Small Part 2 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3881
+      y: 111
+      width: 70
+      height: 148
+    spriteID: 16d69eb5d7fa1c746b1d9bf1040a7585
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3881, y: 111}
+    spritePosition: {x: 378, y: 974}
+  - name: Right Long Tunnel copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2409
+      y: 824
+      width: 46
+      height: 428
+    spriteID: 1aedfde03acd4964994f75bb4a17fd8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2409, y: 824}
+    spritePosition: {x: 390, y: 773}
+  - name: Right Small Part 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3959
+      y: 111
+      width: 70
+      height: 148
+    spriteID: be2554499e775a941a6321d21757eb4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3959, y: 111}
+    spritePosition: {x: 1612, y: 974}
+  - name: Right Long Tunnel
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2409
+      y: 1260
+      width: 46
+      height: 428
+    spriteID: c4f4ad88a5cad0444b6ee4d08cbdafe2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2409, y: 1260}
+    spritePosition: {x: 1624, y: 773}
+  - name: Right Small Part
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2302
+      y: 1647
+      width: 70
+      height: 148
+    spriteID: fd3b03b445c8bfb4db64006ec635c81e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2302, y: 1647}
+    spritePosition: {x: 1187, y: 740}
+  - name: Left Small Part
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2302
+      y: 1803
+      width: 70
+      height: 148
+    spriteID: c5394654be2f4274ca292596e6b2508f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2302, y: 1803}
+    spritePosition: {x: 813, y: 740}
+  - name: Background
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1024
+      height: 1024
+    spriteID: 2364a175c56fb1a46af3c356a3995cbe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  skeletonAssetReferenceID: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Lights
+    spriteName: Lights
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bb0b20741663bac46822d244288a31cd
+    layerID: 44
+    mosaicPosition: {x: 2302, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Left Tunnel
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 6c851c97765c2e343afc8be61067c2cf
+    layerID: 80
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Right Tunnel lLights copy 3
+    spriteName: Right Tunnel lLights copy 3
+    isGroup: 0
+    parentIndex: 1
+    spriteID: c2f73895b6b3c7e4f96c3e195b307961
+    layerID: 79
+    mosaicPosition: {x: 2409, y: 282}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Big Tunnel copy 3
+    spriteName: Right Big Tunnel copy 3
+    isGroup: 0
+    parentIndex: 1
+    spriteID: b4ae34c60ecbbda4ab6e00e72ae0fb22
+    layerID: 78
+    mosaicPosition: {x: 2895, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Left Tunnel 2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 5a1a0c44accd61b45a2fea71914e0b14
+    layerID: 76
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Right Tunnel lLights copy 2
+    spriteName: Right Tunnel lLights copy 2
+    isGroup: 0
+    parentIndex: 4
+    spriteID: 0541cdc38156908458371d068b2d3a12
+    layerID: 75
+    mosaicPosition: {x: 2667, y: 282}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Big Tunnel copy 2
+    spriteName: Right Big Tunnel copy 2
+    isGroup: 0
+    parentIndex: 4
+    spriteID: f2d0c65d930821c43bcf616466c5cde3
+    layerID: 74
+    mosaicPosition: {x: 3388, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Tunnel 2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 07ce97a99b9b60140a3a1b6d625bb4ef
+    layerID: 55
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Right Tunnel lLights copy
+    spriteName: Right Tunnel lLights copy
+    isGroup: 0
+    parentIndex: 7
+    spriteID: e13cca8de5286c44b81717b40c7bd819
+    layerID: 54
+    mosaicPosition: {x: 2925, y: 282}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Big Tunnel copy
+    spriteName: Right Big Tunnel copy
+    isGroup: 0
+    parentIndex: 7
+    spriteID: af3929704555ccd47a6590723f6bf5c9
+    layerID: 53
+    mosaicPosition: {x: 2895, y: 111}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Tunnel
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 08e209d9d39321e43879d42cb14201f8
+    layerID: 50
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Right Tunnel lLights
+    spriteName: Right Tunnel lLights
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 4af035fcce3940a47935888adaccd7ab
+    layerID: 49
+    mosaicPosition: {x: 3183, y: 282}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Big Tunnel
+    spriteName: Right Big Tunnel
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 195f853f91264b5418e1d93ca58ebb0b
+    layerID: 11
+    mosaicPosition: {x: 3388, y: 111}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Top Big Tunnel
+    spriteName: Top Big Tunnel
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f052d3c8c98b3af4c94dfcff840b55ec
+    layerID: 6
+    mosaicPosition: {x: 2302, y: 282}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Middle Big Tunnel
+    spriteName: Middle Big Tunnel
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ce47e511f73422d4da5545d6b87a4408
+    layerID: 15
+    mosaicPosition: {x: 2302, y: 775}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Left Area
+    spriteName: Left Area
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 04917aab8e966bf4786405409c63795c
+    layerID: 26
+    mosaicPosition: {x: 2060, y: 1575}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Area
+    spriteName: Right Area
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d6376169c01b1004dbb7285487b4bd52
+    layerID: 21
+    mosaicPosition: {x: 2060, y: 1805}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Corpus 2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 78a782cf6b0ff534e97e5207a5f80edd
+    layerID: 63
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Right Corpus Lights copy
+    spriteName: Right Corpus Lights copy
+    isGroup: 0
+    parentIndex: 17
+    spriteID: d0640e64125639346aa805a402cb24ff
+    layerID: 62
+    mosaicPosition: {x: 4015, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Corpus copy
+    spriteName: Right Corpus copy
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 2ae1d398a1b980045bceb657c835f20a
+    layerID: 61
+    mosaicPosition: {x: 2060, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Long Tunnel copy 3
+    spriteName: Right Long Tunnel copy 3
+    isGroup: 0
+    parentIndex: 17
+    spriteID: ca6105f5fb92f1842b2e745b4f39183a
+    layerID: 90
+    mosaicPosition: {x: 2302, y: 1211}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Left Corpus 2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 17e4befba4bbff74586a5670f6f34abb
+    layerID: 88
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Right Corpus Lights copy 3
+    spriteName: Right Corpus Lights copy 3
+    isGroup: 0
+    parentIndex: 21
+    spriteID: 84e2da21f64fbcf4ead5ffb700da9d2a
+    layerID: 87
+    mosaicPosition: {x: 4015, y: 51}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Corpus copy 3
+    spriteName: Right Corpus copy 3
+    isGroup: 0
+    parentIndex: 21
+    spriteID: 2930aa26c86a5e34ab7bae4bf553c7ec
+    layerID: 86
+    mosaicPosition: {x: 2060, y: 428}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Long Tunnel copy 2
+    spriteName: Right Long Tunnel copy 2
+    isGroup: 0
+    parentIndex: 21
+    spriteID: 34ea440ae38808342919b6ef90f3d49e
+    layerID: 89
+    mosaicPosition: {x: 2409, y: 388}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Left Corpus
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: ea132714a02468841b33fc370f936609
+    layerID: 84
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Right Corpus Lights copy 2
+    spriteName: Right Corpus Lights copy 2
+    isGroup: 0
+    parentIndex: 25
+    spriteID: b62241a1f5749a34bb1ed83d7ace6bd4
+    layerID: 83
+    mosaicPosition: {x: 4059, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Corpus copy 2
+    spriteName: Right Corpus copy 2
+    isGroup: 0
+    parentIndex: 25
+    spriteID: 3f4b32bf431a92242a2eeb16a0744379
+    layerID: 82
+    mosaicPosition: {x: 2060, y: 852}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Corpus
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 2105bc20944798c4f8c2e17a7c416a6a
+    layerID: 58
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Right Corpus Lights
+    spriteName: Right Corpus Lights
+    isGroup: 0
+    parentIndex: 28
+    spriteID: de019cb9e46125f4080f1ccec3381799
+    layerID: 57
+    mosaicPosition: {x: 4059, y: 51}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Corpus
+    spriteName: Right Corpus
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 31d17fa57937e504ab51a31a1a2ac3a7
+    layerID: 30
+    mosaicPosition: {x: 2060, y: 1213}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Attachments
+    spriteName: Attachments
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cb734f3a6d73d61488d2b20f53a71c94
+    layerID: 25
+    mosaicPosition: {x: 2182, y: 1575}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Small Attachment
+    spriteName: Right Small Attachment
+    isGroup: 0
+    parentIndex: -1
+    spriteID: af5714bd3b0fe9744965d53cb1d5a100
+    layerID: 92
+    mosaicPosition: {x: 3441, y: 282}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Left Small Attatchment
+    spriteName: Left Small Attatchment
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4f16dfc7de9030243a81e5f4dbdfb2ef
+    layerID: 91
+    mosaicPosition: {x: 3881, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Attachments
+    spriteName: Attachments_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7540496e117ca894096cb6882e90fd8f
+    layerID: 20
+    mosaicPosition: {x: 2182, y: 1805}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bottom Part
+    spriteName: Bottom Part
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 987c62b9f93f50e47b4a36f7260c5559
+    layerID: 42
+    mosaicPosition: {x: 2647, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Left Longer Tunnel
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: e91c91af4eb5aae4aa54248771a37e5b
+    layerID: 72
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Right Small Part 2 copy
+    spriteName: Right Small Part 2 copy
+    isGroup: 0
+    parentIndex: 36
+    spriteID: 16d69eb5d7fa1c746b1d9bf1040a7585
+    layerID: 71
+    mosaicPosition: {x: 3881, y: 111}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Long Tunnel copy
+    spriteName: Right Long Tunnel copy
+    isGroup: 0
+    parentIndex: 36
+    spriteID: 1aedfde03acd4964994f75bb4a17fd8e
+    layerID: 70
+    mosaicPosition: {x: 2409, y: 824}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Longer Tunnel
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: bdcb880a777a23943a66a9a222249013
+    layerID: 67
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Right Small Part 2
+    spriteName: Right Small Part 2
+    isGroup: 0
+    parentIndex: 39
+    spriteID: be2554499e775a941a6321d21757eb4e
+    layerID: 64
+    mosaicPosition: {x: 3959, y: 111}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Long Tunnel
+    spriteName: Right Long Tunnel
+    isGroup: 0
+    parentIndex: 39
+    spriteID: c4f4ad88a5cad0444b6ee4d08cbdafe2
+    layerID: 66
+    mosaicPosition: {x: 2409, y: 1260}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Right Small Part
+    spriteName: Right Small Part
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fd3b03b445c8bfb4db64006ec635c81e
+    layerID: 34
+    mosaicPosition: {x: 2302, y: 1647}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Left Small Part
+    spriteName: Left Small Part
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c5394654be2f4274ca292596e6b2508f
+    layerID: 33
+    mosaicPosition: {x: 2302, y: 1803}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Background
+    spriteName: Background
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2364a175c56fb1a46af3c356a3995cbe
+    layerID: 3
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: Tech Station 2 Larger Texture
+  prefabAssetName: Tech Station 2 Larger Prefab
+  spriteLibAssetName: Tech Station 2 Larger Sprite Lib
+  skeletonAssetName: 
+  secondarySpriteTextures: []
